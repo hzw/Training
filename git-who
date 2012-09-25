@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 git blame -L 4,6 develop foo#@liqi
+=======
+>>>>>>> 6f626af756523a68a9adb9221a21a523a55df0cc
 git blame -L 4,6 develop foo#@tangchang
 git blame -L 5,5 develop foo#@wenhaiwen2
 git blame git-who -L 5,5#@wanghan
