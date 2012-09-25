@@ -2,4 +2,26 @@
 79849d0680fde30ba684f58fe55db1ebf804bd49 Merge branch 'develop' of github.com:AdMaster/Training into develop success Conflicts:         foo
 9d0707d3890e492ba27e0b6146b5748529f7f8cd change git clone git@github.com:admaster/git-test.git  to git@github.com:AdMaster/Training.git~
 352a4eada4dc13c2c4e551d2688602f662a70cdb        modified:   foo
+t 799d37be607822835026ffa63c83e27e567f40b3
+Merge: 6fd2688 714bbfd
+Author: hzw <hanzhiwei@admaster.com.cn>
+Date:   Tue Sep 25 14:44:01 2012 +0800
+
+    练习
+
+commit 714bbfd8fcccbdd11adac144cd8d0afb2adc6aea
+Author: hzw <hanzhiwei@admaster.com.cn>
+Date:   Tue Sep 25 14:15:22 2012 +0800
+
+    git config
+
+commit 9d18b28b10c680d7ce059063cdfa866e48f02a8e
+Author: hzw <hanzhiwei@admaster.com.cn>
+Date:   Tue Sep 25 14:14:45 2012 +0800
+
+    rock
+
+commit 6fd26885e22772da3704194f541de4661c1890f6
+Author: hzw <hanzhiwei@admaster.com.cn>
+Date:   Mon Sep 24 18:58:31 2012 +0800
 
