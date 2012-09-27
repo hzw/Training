@@ -1,5 +1,6 @@
  HEAD
 
+<<<<<<< HEAD
 FML,readme is wrong!!!
 5a89 add some tips about TODO
 readme is wrong
@@ -7,3 +8,10 @@ readme is wrong
 readme is wrong
 
 
+=======
+ .merge_file_lrlEZr
+FML,readme is wrong!!!
+test
+.merge_file_6ntMRr
+blablabla
+>>>>>>> 91551753cdb49d722974d5124d86351a2e2ae1c4
